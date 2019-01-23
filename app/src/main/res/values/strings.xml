@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QRPAGUE</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_agencia">Agência</string>
+    <string name="prompt_conta">Conta</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Email informado esta invalido</string>
+    <string name="error_invalid_password">A senha é muito curta.Digite uma nova.</string>
+    <string name="error_incorrect_password">A senha está invalida</string>
+    <string name="error_field_required">Este campo é necessário.</string>
+    <string name="permission_rationale">"Olá, solicito acessar seus contatos."
+    </string>
+</resources>
